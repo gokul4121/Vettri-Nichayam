@@ -1,0 +1,29 @@
+
+
+ .form{
+    height: 500px;
+    width: 250px;
+    background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%,
+    rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+   padding: 40px;
+   display: flex;
+   flex-direction: column;
+  margin: auto;
+   
+ }
+ input{
+    height: 25px;
+    margin-top: 7px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border-color: transparent;
+ }
+
+ button{
+   align-self: center;
+    width: 75PX;
+    border-radius: 5px;
+    background-color: chartreuse;
+
+ }
+ 
